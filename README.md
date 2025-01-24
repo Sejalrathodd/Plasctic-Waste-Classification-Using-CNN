@@ -45,7 +45,7 @@ This section will be updated weekly with progress details and corresponding Jupy
 
 **Notebooks:**  
 - [Week1-Libraries-Importing-Data-Setup.ipynb](importing-data-week1.ipynb)  
-- [Kaggle Notebook]([https://www.kaggle.com/](https://www.kaggle.com/code/rathodsejal/importing-data-week1))
+- [Kaggle Notebook](https://www.kaggle.com/code/rathodsejal/importing-data-week1))
 
 ---
 
