@@ -26,7 +26,7 @@ The dataset used for this project is the **Waste Classification Data** by Sashaa
 ---
 
 ## Dataset Link:
-You can access the dataset here: [Waste Classification Data](https://www.kaggle.com/datasets).
+You can access the dataset here: [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data).
 
 **Note:** Ensure appropriate dataset licensing and usage guidelines are followed.
 
