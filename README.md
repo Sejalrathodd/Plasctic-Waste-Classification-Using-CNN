@@ -140,7 +140,8 @@ The CNN model has achieved 85.32% accuracy, which is a strong performance for wa
 - Tweaking hyperparameters (learning rate, dropout rate) to optimize performance.
 
 
-### Week 3: TBD  
+### Week 3: Week 3
+
 Streamlit App and Model Deployment
 Date: 4th February 2025 - 7th February 2025
 
