@@ -141,9 +141,14 @@ The CNN model has achieved 85.32% accuracy, which is a strong performance for wa
 
 
 ### Week 3: TBD  
-Details to be added after completion.
+Streamlit App and Model Deployment
+Date: 4th February 2025 - 7th February 2025
 
----
+Activities:
+
+Developed a Streamlit web application for real-time waste classification.
+Uploaded the trained model to Kaggle and GitHub for public access.
+Finalized the project documentation and README formatting.
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
